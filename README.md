@@ -2,16 +2,16 @@
 
 ![Fsociety ransomware graniet](https://s3.postimg.org/y861zq31v/Capture_d_cran_de_2016_10_30_12_18_08.png)
 
-# On movie
+# No filme
 
 ![Fsociety ransomware graniet](http://www.welivesecurity.com/wp-content/uploads/2016/07/mrrobot11-1024x590.jpg)
 
 
-#### Required lib :
+#### obrigatória lib :
 + Crypto++
 + CURL
 
-#### G++ flags used for test
+#### G++ flags usadas para teste
 + g3
 + ggdb
 + O0
@@ -22,24 +22,21 @@
 + lcurl
 
 #### Ransomware Step
-+ Initial
-+ File listing
-+ File parser
-+ Encrypt files source with AES Library
-+ Change filename with filename+.locked
-+ Send to jester C&C (Number file...)
-+ Ask reward & setup jester pages
++ Inicial
++ Lista de arquivos
++ Analisador de arquivos
++ Criptografar fonte de arquivos com biblioteca AES
++ Alterar o nome do arquivo com o nome do arquivo +. Bloqueado
++ Enviar ao jester C & C (arquivo de números ...)
++ Pedir recompensa e configurar páginas de babá
 
-(For security reason the ransomware crypt only .txt but you can change on c++ file)
+(Por motivos de segurança, o ransomware cripto apenas .txt, mas você pode mudar no arquivo c ++)
 
-#### please remember this  is just a PoC the ransomware is not stable is just for fun!
+#### lembre-se de que isso é apenas um PoC o ransomware não é estável é apenas por diversão!
 
-#### Advanced
 
-In futur i'll add multiple  step (Decrypt on file for free,  FAQ  ...).
-
-#### DISCLAIMER
-This is Jester ransomware like, in Mr Robot movie (coded by Darlene S1E2,3),
-Please beware warning, after start you can't recover the files (In movie, the public key is not shared).
-Please don't use this malware on personal computer.
-This project is just a wink of mr robot serie.
+#### AVISO LEGA
+Este é o Ransomware de Jester, como no filme Mr Robot (codificado por Darlene S1E2,3),
+Tenha cuidado com o aviso, após o início, você não pode recuperar os arquivos (no filme, a chave pública não é compartilhada).
+Não use este malware no computador pessoal.
+Este projeto é apenas um piscar de mr série de robôs.
