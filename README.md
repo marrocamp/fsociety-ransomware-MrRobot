@@ -35,7 +35,7 @@
 #### lembre-se de que isso é apenas um PoC o ransomware não é estável é apenas por diversão!
 
 
-#### AVISO LEGA
+#### AVISO LEGAL
 Este é o Ransomware de Jester, como no filme Mr Robot (codificado por Darlene S1E2,3),
 Tenha cuidado com o aviso, após o início, você não pode recuperar os arquivos (no filme, a chave pública não é compartilhada).
 Não use este malware no computador pessoal.
